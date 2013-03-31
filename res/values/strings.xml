@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Hailo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_last_searched">Last Searched Place</string>
+    <string name="title_activity_main">Hailo</string>
+    <string name="title_activity_restaurant_on_map">Hailo</string>
+ 	<string name="next">Next</string>
+ 	<string name="prev">Previous</string>
+ 	<string name="no_more_results">No more search results</string>
+ 	<string name="first_page">Already at the start of the search result</string> 
+ 	<string name="no_data">No data to show on map.</string>
+ 	<string name="zero_results">No results found around your location</string>
+ 	<string name="quota_exceeded">Developer API call quota exceeded. Contact developer</string>
+ 	<string name="request_denied">Request denied by server.</string>
+ 	<string name="invalid_request">Invalid request due to missing parameters.</string>
+ 	<string name="unknown_error">An unknown error occured.Please try again later.</string>
+</resources>
